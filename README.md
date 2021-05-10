@@ -1,9 +1,9 @@
-# grid monitoring
+## grid monitoring
 
-#### monitor threefold services and send a message if any service down
-#### send a notify message to the telegram group (https://t.me/joinchat/GMRysn0QlD39rC8U)
+monitor threefold services and send a message if any service down
+send a notify message to the telegram group (https://t.me/joinchat/GMRysn0QlD39rC8U)
 
-#### check the wallets balance and send a message if:
+check the wallets balance and send a message if:
     mainnet TFT < 1000 or XLM < 500,
     tft_faucet_testnet TFT <10,
     trader_mainnet TFT < 10,
@@ -14,8 +14,8 @@
     activation_service_mainnet XLM < 50,
     explorer_mainnet XLM < 20
 
-##### check explorers and gateways and send a message if any one down 
-#### get the public ip usage
+check explorers and gateways and send a message if any one down 
+get the public ip usage
 
 Telegram message examples:
 
